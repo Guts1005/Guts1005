@@ -1,8 +1,10 @@
 <div align="center">
 
-# Shipping AI at the edge — from Raspberry Pi to production.
+# Hey, I'm Sharvin 👋
 
-**Sharvin Neve** · Systems builder · Edge infra · Applied ML
+**CS student · ML/AI enthusiast · building things that actually work**
+
+MBA Tech (Computer Engineering) @ NMIMS MPSTME, Mumbai · Graduating 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharvin-neve-4908301b1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guts1005)
@@ -11,7 +13,7 @@
 
 ---
 
-I design and deploy systems where embedded hardware meets intelligent software. Currently building production live streaming infrastructure on Raspberry Pi with real-time AI inference, shipping full-stack dashboards to Vercel, and integrating agentic workflows into edge pipelines. MBA Tech (Computer Engineering) at NMIMS MPSTME, Mumbai — graduating 2028.
+I'm a computer engineering student who got hooked on ML and AI — and decided to stop just learning and start building. Currently interning at **Aspire Consultancy Services**, where I built and shipped a production live streaming dashboard with AI-powered analysis. Outside of work, I build end-to-end projects across embedded systems, full-stack web, and applied machine learning — because the best way to learn is to ship.
 
 ---
 
