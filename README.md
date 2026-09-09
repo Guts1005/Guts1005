@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sharvin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Sharvin <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR0YTZzNHNnaTNsOWE4OGprOHYzNWZvbWZwejg5cDlwdng5cXdtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuzwffmvtBNGjYyEUe/giphy.gif)" width="28">
 
 **Systems Software & AI Infrastructure · Distributed LLM Inference · Edge Fleet Telemetry**
 
