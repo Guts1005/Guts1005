@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sharvin <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR0YTZzNHNnaTNsOWE4OGprOHYzNWZvbWZwejg5cDlwdng5cXdtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuzwffmvtBNGjYyEUe/giphy.gif)" width="28">
+# ?Sharvin <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNwbW5hdzB4OGNtcTNuMXA5cTNxNGdxNHlrcGwzN2pneTFidjh3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qiD272jWSEPSQ5lEWL/giphy.gif" width="28">
 
 **Systems Software & AI Infrastructure · Distributed LLM Inference · Edge Fleet Telemetry**
 
@@ -26,7 +26,7 @@ Current State: Architecting offline-first streaming daemons & instrumenting AI i
 
 ---
 
-## ⚡ Executive Summary
+## ❕ Executive Summary
 
 I am a computer engineering student and systems software engineer building at the intersection of **low-level systems** and **applied AI infrastructure**. 
 
@@ -34,7 +34,7 @@ Rather than stopping at high-level API wrappers, I work deep in the stack: contr
 
 ---
 
-## ⭐ Upstream Systems & Open Source Contributions
+## 😌 Upstream Systems & Open Source Contributions
 
 A selection of upstream pull requests contributed to production AI inference engines and systems infrastructure:
 
@@ -47,7 +47,7 @@ A selection of upstream pull requests contributed to production AI inference eng
 
 ---
 
-## 💼 Production Systems & Work Experience
+## ⚒ Production Systems & Work Experience
 
 ### **Software & Systems Engineering Intern** — *Aspire Consultancy Services*
 *(May 2026 – July 2026)*
@@ -62,7 +62,7 @@ A selection of upstream pull requests contributed to production AI inference eng
 
 ---
 
-## 🚀 Flagship Projects
+## 🙈 Flagship Projects
 
 ### **1. ChurnIQ — Predictive Analytics & ML Pipeline Platform**
 *Production-grade machine learning platform for customer churn analytics with automated feature transformation and real-time scoring.*
