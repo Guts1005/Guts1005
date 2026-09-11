@@ -4,7 +4,7 @@
 
 **Systems Software & AI Infrastructure · Distributed LLM Inference · Edge Fleet Telemetry**
 
-Integrated B.Tech + MBA Tech (Computer Engineering) @ **NMIMS MPSTME, Mumbai** · *Class of 2028*
+Integrated B.Tech + MBA (Computer Engineering) @ **NMIMS MPSTME, Mumbai** · *Class of 2028*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharvinneve)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guts1005)
