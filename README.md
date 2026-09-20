@@ -78,19 +78,21 @@ A selection of upstream pull requests contributed to production AI inference eng
 
 ---
 
-### **2. Smart Helmet Live (`Streaming-Rpi`) — Edge-to-Cloud Telemetry System**
-*End-to-end edge-to-cloud live video and telemetry pipeline built for mission-critical remote inspection.*
+### **2. Smart Helmet Live (`Streaming-Rpi`) — Industrial Edge Video & AI Safety System**
+*Industrial-grade edge streaming, BLE beacon worker tracking, and Google Gemini AI safety platform for Raspberry Pi.*
 
-- **Real-Time WebRTC Streaming**: Raspberry Pi camera feed hardware-encoded via FFmpeg and streamed over LiveKit WebRTC with sub-second glass-to-glass latency to a Next.js control dashboard on Vercel.
-- **Edge Analytics**: Integrated local and desktop synchronized recording, two-way audio channels, and edge AI snapshot comparison.
+- **Sub-300ms Low-Latency Streaming**: Hardware-encoded H.264 video ingested into Simple Realtime Server (SRS) and delivered via HTTP-FLV (`mpegts.js`) with two-way WebRTC audio talkback to the Next.js control center.
+- **Offline-First & Auto-Chunking**: GPIO button triggers 5-minute segmented recording (`ffmpeg`) with automated sequential cloud synchronization and headless camera-based QR Wi-Fi provisioning.
+- **Zero-Trust Security & SQA**: Enforces zero open inbound ports via Cloudflare Tunnels, strict Content-Security-Policy (CSP), tenant device isolation, and automated **GitHub CodeQL AST** and **Gitleaks** quality gates.
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![WebRTC](https://img.shields.io/badge/LiveKit%20WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![CI](https://github.com/Guts1005/Streaming-Rpi/actions/workflows/ci.yml/badge.svg)](https://github.com/Guts1005/Streaming-Rpi/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/Guts1005/Streaming-Rpi/actions/workflows/codeql.yml/badge.svg)](https://github.com/Guts1005/Streaming-Rpi/actions/workflows/codeql.yml)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://raspberrypi.org)
+[![SRS](https://img.shields.io/badge/Streaming-SRS%205-red?style=flat-square&logo=docker&logoColor=white)](https://github.com/ossrs/srs)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
 
-[→ Streaming-Rpi Repo](https://github.com/Guts1005/Streaming-Rpi) · [→ Centrix-Helmet Repo](https://github.com/Guts1005/Centrix-Helmet) · [→ pi-0 Repo](https://github.com/Guts1005/pi-0)
+[→ Streaming-Rpi Flagship Repo](https://github.com/Guts1005/Streaming-Rpi) · [→ Official v1.0.0 Release](https://github.com/Guts1005/Streaming-Rpi/releases/tag/v1.0.0) · [→ Centrix-Helmet Repo](https://github.com/Guts1005/Centrix-Helmet)
 
 ---
 
