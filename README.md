@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/vagabond_dark.jpg" alt="Sharvin Neve // 浪人・宮本武蔵 // Systems Software & AI Infrastructure" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vagabond_dark.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/vagabond_banner.jpg">
+  <img src="assets/vagabond_dark.jpg" alt="Sharvin Neve // 浪人・宮本武蔵 // Systems Software & AI Infrastructure" width="100%">
+</picture>
 
 # SHARVIN NEVE
 ### 彷徨の道 // Systems Software & AI Infrastructure Engineer
