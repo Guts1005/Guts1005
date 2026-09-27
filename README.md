@@ -26,7 +26,7 @@ sharvin@edge-node:~$ neofetch --profile
 
 ---
 
-### ❯ Executive Profile & Systems Philosophy
+### // 01. Executive Profile & Systems Philosophy
 
 I am a computer engineering student and systems software engineer building at the intersection of **low-level systems** and **applied AI infrastructure**.
 
@@ -34,7 +34,7 @@ Rather than stopping at high-level API abstractions, I engineer deep in the stac
 
 ---
 
-### ❯ Upstream AI & Systems Engineering (The 0.1% Signal Layer)
+### // 02. Upstream AI & Systems Engineering (The 0.1% Signal Layer)
 
 Direct contributions and patches to production AI inference frameworks and foundational Linux infrastructure:
 
@@ -47,7 +47,7 @@ Direct contributions and patches to production AI inference frameworks and found
 
 ---
 
-### ❯ Production Systems & Industry Experience
+### // 03. Production Systems & Industry Experience
 
 #### **Software & Systems Engineering Intern** — *Aspire Consultancy Services*
 *(May 2026 – July 2026)*
@@ -62,7 +62,7 @@ Direct contributions and patches to production AI inference frameworks and found
 
 ---
 
-### ❯ Flagship Architectures & Repositories
+### // 04. Flagship Architectures & Repositories
 
 #### 1. **[Smart Helmet Live (`Streaming-Rpi`)](https://github.com/Guts1005/Streaming-Rpi)** — Industrial Edge Streaming & AI Safety System
 *Industrial-grade edge streaming, BLE beacon worker tracking, and Google Gemini AI safety platform for Raspberry Pi.*
@@ -116,7 +116,7 @@ Direct contributions and patches to production AI inference frameworks and found
 
 ---
 
-### ❯ Technical Stack & Ecosystem
+### // 05. Technical Stack & Ecosystem
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Direct contributions and patches to production AI inference frameworks and found
 
 ---
 
-### ❯ Active Research & Architectural Horizons
+### // 06. Active Research & Architectural Horizons
 
 - **Distributed KV Cache & Memory Scheduling**: Exploring PagedAttention memory layouts and chunked prefill dynamics across distributed inference instances (vLLM / SGLang).
 - **Agentic Workflows via Model Context Protocol (MCP)**: Building multi-agent systems with deterministic tool routing, dynamic context pruning, and sandboxed execution boundaries.
@@ -143,7 +143,7 @@ Direct contributions and patches to production AI inference frameworks and found
 
 ---
 
-### ❯ Honors, Credentials & Hackathons
+### // 07. Honors, Credentials & Hackathons
 
 - 🥇 **Smart India Hackathon (SIH)** — *National Finalist (Hardware & Systems Software Track)*
 - ☁️ **AWS Cloud Quest: Cloud Practitioner** — *Verified Cloud Architecture Credential*
@@ -152,7 +152,7 @@ Direct contributions and patches to production AI inference frameworks and found
 
 ---
 
-### ❯ GitHub Telemetry & Velocity
+### // 08. GitHub Telemetry & Velocity
 
 <div align="center">
   <a href="https://github.com/Guts1005">
@@ -171,9 +171,9 @@ Direct contributions and patches to production AI inference frameworks and found
 
 ---
 
-<div align="center">
+### // 09. Let's Build Something High-Impact.
 
-### Let's Build Something High-Impact.
+<div align="center">
 
 Whether you're working on distributed AI inference engines, edge systems, or ambitious infrastructure challenges — my inbox is always open.
 
