@@ -126,6 +126,22 @@ Patches to space-grade operating systems, foundation inference runtimes, and Lin
 
 ---
 
+### // 零七・歩み ── Engineering Cadence & Commit Velocity
+
+<div align="center">
+
+<a href="https://github.com/Guts1005">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Guts1005&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=b91c1c&fire=b91c1c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b91c1c&dates=94a3b8">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Guts1005&theme=light&background=ffffff&border=e2e8f0&stroke=e2e8f0&ring=b91c1c&fire=b91c1c&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=b91c1c&dates=64748b">
+    <img src="https://streak-stats.demolab.com/?user=Guts1005&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=b91c1c&fire=b91c1c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b91c1c&dates=94a3b8" alt="Sharvin's GitHub Streak" width="70%">
+  </picture>
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 > *"All that you are is the result of what you have thought. The sword must become one with the soul."*  
